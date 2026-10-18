@@ -1,4 +1,9 @@
-# This standalone showcase publishes only its curated product introduction.
+# Publish only reviewed product copy and the four approved website screenshots.
 *
 !.gitignore
 !README.md
+!/assets/
+!/assets/market-overview.jpg
+!/assets/seed-candidates.jpg
+!/assets/prediction-validation.jpg
+!/assets/drawdown-analysis.jpg
