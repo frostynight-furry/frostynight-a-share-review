@@ -1,6 +1,6 @@
 # 夜霜 A 股复盘
 
-**Night Frost A-share Review**
+**FrostyNight A-share Review**
 
 一个面向 A 股收盘复盘的工作区，将市场回顾、板块观察、个股走势和个人复盘记录放在同一条阅读路径中。
 
